@@ -1,0 +1,4 @@
+BirdsDataset/
+vggface2_dataset100/
+*.zip
+*.pth
